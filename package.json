@@ -1,0 +1,12 @@
+{
+  "name": "discord-voice-monitor",
+  "version": "1.0.0",
+  "description": "Discord voice channel monitor with Telegram notifications",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
